@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'SenkronRegular';
+  font-weight: 400;
+  src: url(./assets/fonts/Senkron-Regular.otf) format("opentype");
+}
